@@ -1,3 +1,7 @@
+---
+tags: notes, dauhaus, daos, community
+---
+
 # DAOhaus Haus Party LIVE! Notes
 
 Last updated: 5/20/21 @10:17pm EST
